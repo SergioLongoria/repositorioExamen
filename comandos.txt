@@ -1,0 +1,49 @@
+    1  gittgit bash
+    2  git init
+    3  git remote add origin https://github.com/SergioLongoria/repositorio
+    4  git add ejex.c
+    5  git push -u origin main
+    6  ls
+    7  cd desktop
+    8  mkdir repositorioexamen
+    9  cd repositorioexamen
+   10  ls
+   11  touch ejex.c
+   12  ls
+   13  git status
+   14  git add ejex.c
+   15  git status
+   16  git commit -m "Primer Commit"
+   17  git config --global user.email "longoria.sergio@uabc.edu.mx" 
+   18  git commit -m "Primer commit"
+   19  git log
+   20  git config --global user.name "SergioLongoria"
+   21  git log
+   22  git commit -m "Segundo commit"
+   23  git commit -m "Segundo commit"
+   24  git log
+   25  git status
+   26  git add ejex.c 
+   27  git status
+   28  git commit -m "Segundo commit"
+   29  git log --oneline
+   30  git checkout d403a61
+   31  git branch -M main
+   32  git checkout master
+   33  git remote add origin https://github.com/SergioLongoria/repositorio.git
+   34  git push -u origin main
+   35  git remote add origin https://github.com/SergioLongoria/repositorioExamen.git
+   36  git push origin -u main 
+   37  .. cd desktop 
+   38  cd.. desktop
+   39  ..cd desktop
+   40  git init
+   41  git add README.md
+   42  git init
+   43  git add ejex.c
+   44  git commit -m "Primer commit"
+   45  git branch -M main
+   46  git remote add origin https://github.com/SergioLongoria/repositorioExamen.git
+   47  git push -u origin main
+   48  history
+   49  history>comandos.txt
